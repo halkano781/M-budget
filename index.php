@@ -1,2 +1,2 @@
 <?php
-echo "Welcome to my app";
+echo "Welcome to M-budget";

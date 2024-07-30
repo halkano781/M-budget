@@ -3,8 +3,8 @@
 include 'accessToken.php';
 $registerurl = 'https://sandbox.safaricom.co.ke/mpesa/c2b/v1/registerurl';
 $BusinessShortCode = '174379';
-$confirmationUrl = 'https://neutral-goat-nearly.ngrok-free.app/M-budget/confirmation_url.php';
-$validationUrl = 'https://neutral-goat-nearly.ngrok-free.app/M-budget/validation_url.php';
+$confirmationUrl = 'http://mbudgetkenya.online/mbudget/confirmation_url.php';
+$validationUrl = 'http://mbudgetkenya.online/mbudget/validation_url.php';
 $curl = curl_init();
 curl_setopt($curl, CURLOPT_URL, $registerurl);
 curl_setopt($curl, CURLOPT_HTTPHEADER, array(
