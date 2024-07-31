@@ -1,0 +1,11 @@
+EwAB42x%yeAgCu
+DB on hosting
+Hostname:
+192.168.0.100
+Database:
+mbudgetk_Mpesa
+Username:
+mbudgetk_Mpesa
+Password:
+aWke8dbRadk2jFRn5unD
+Dismiss
